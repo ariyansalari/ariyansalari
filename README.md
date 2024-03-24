@@ -9,11 +9,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariyansalari&show_icons=true&locale=en&layout=compact" alt="ariyansalari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariyansalari&show_icons=true&locale=en" alt="ariyansalari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariyansalari&" alt="ariyansalari" /></p>
 
 
 #sddd
