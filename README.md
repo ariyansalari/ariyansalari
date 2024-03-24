@@ -12,7 +12,7 @@
 
 
 # 🤵 About Me:
-🔭 I’m currently student at uninversity but i’m working on InjaApp <br>🌱 I’m currently learning ReactNative & designPattern<br>💬 Ask me about everything from Code 💖<br>⚡ Fun fact about me is that you can't not laugh when you are with me 🤷‍♂️<br>🐱‍👓 i'm looking for fascinating programmer friends to teach each other
+🔭 I’m doing for the bachelor of software engineer but currently i’m working on InjaApp <br>🌱 I’m currently learning ReactNative & designPattern<br>💬 Ask me about everything from Code 💖<br>⚡ Fun fact about me is that you can't not laugh when you are with me 🤷‍♂️<br>🐱‍👓 i'm looking for fascinating programmer friends to teach each other
 
 
 
