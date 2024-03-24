@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm ariyan salari</h1>
 <h3 align="center">Front-End Developer</h3>
-<img align="right" widh="400" alt="coding" src="https://i.pinimg.com/originals/f8/22/13/f82213b334541c0a2e83e3bf733f881f.gif" /><br/>
+<img align="right" widh="100%" alt="coding" src="https://i.pinimg.com/originals/f8/22/13/f82213b334541c0a2e83e3bf733f881f.gif" />
 <p> <img src="https://komarev.com/ghpvc/?username=ariyansalari&label=Profile%20views&color=0e75b6&style=flat" alt="ariyansalari" /> </p>
 
 
