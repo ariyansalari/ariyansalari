@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm ariyan salari</h1>
-<h3 align="center">MernStack Developer</h3>
+<h1 align="center">Hi ✌, I'm ariyan salari</h1>
+<h3 align="center">Sofware Engineer</h3>
 
 <p align="center">
 <img width="450" alt="coding" src="https://i.pinimg.com/originals/f8/22/13/f82213b334541c0a2e83e3bf733f881f.gif" />
